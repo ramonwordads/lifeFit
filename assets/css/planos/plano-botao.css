@@ -1,0 +1,55 @@
+.plano__botaoSilver{
+    background-color: #292323b4;
+    border-radius: 12px;
+    border: 2px solid #979191;
+    color: #ffffff;
+    padding: 1rem 4rem;
+    text-transform: uppercase;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.5s ease-in-out;
+}
+.plano__botaoSilver:hover{
+    background-color: #ffffff;
+    color: #292323b4;;
+
+}
+
+.plano__botaoGold{
+    background-color: #E9BA13;
+    border-radius: 12px;
+    border: 2px solid #bea443;
+    color: #ffffff;
+    padding: 1rem 4rem;
+    text-transform: uppercase;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.5s ease-in-out;
+}
+
+.plano__botaoGold:hover{
+    background-color: #ffffff;
+    color: #E9BA13;;
+
+}
+
+
+
+.plano__botaoDiamond{
+    background-color: #12D1DD;
+    border-radius: 12px;
+    border: 2px solid #12D1DD;
+    color: #ffffff;
+    padding: 1rem 4rem;
+    text-transform: uppercase;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.5s ease-in-out;
+}
+
+.plano__botaoDiamond:hover{
+    background-color: #faf8f3;
+    color: #12D1DD;
+
+}
+

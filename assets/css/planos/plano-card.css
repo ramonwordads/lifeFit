@@ -1,0 +1,40 @@
+.plano__card{
+    background-color: #FFFFFF;
+    max-width: 250px;
+    border-radius: 10px;
+    text-align: center;
+    
+    padding: 2rem 1rem;
+
+    margin: 2rem 0;
+    
+
+    
+ 
+}
+
+.silver{
+    color: #ABA9A9;
+    
+}
+
+.border-silver{
+    border: 2px solid #ABA9A9;
+}
+
+
+.gold{
+    color: #E9BA13;
+}
+
+.border-gold{
+    border: 2px solid #E9BA13;
+}
+
+.diamond{
+    color: #12D1DD;
+}
+
+.border-diamond{
+    border: 2px solid #12D1DD;
+}

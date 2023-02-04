@@ -1,0 +1,15 @@
+.beneficios__imagem{
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto;
+    padding: 2rem 0;
+    
+    width: 200px;
+    height: 200px;
+    
+
+    
+}

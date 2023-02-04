@@ -1,0 +1,10 @@
+.banner__imagem{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    max-width: 768px;
+    opacity: .5;
+    height: 220px;
+    width: 100%;
+}

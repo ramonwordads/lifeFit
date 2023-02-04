@@ -1,0 +1,16 @@
+.beneficios__lista{
+    color: #ffffff;
+    
+    font-size: 0.9rem;
+    font-weight: 400;
+    line-height: 23px;
+    list-style: none;
+    max-width: 300px;
+    text-align: center;
+    margin: 0 auto;
+
+    padding: 0 40px;
+    padding-top: 1rem;
+    padding-bottom: 3rem;
+    
+}

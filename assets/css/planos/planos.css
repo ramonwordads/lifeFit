@@ -1,0 +1,9 @@
+.planos{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    vertical-align: middle;
+
+    background-color: #FCF7F7;
+}

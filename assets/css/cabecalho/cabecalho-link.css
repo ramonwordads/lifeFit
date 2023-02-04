@@ -1,0 +1,20 @@
+.cabecalho__link{
+    color: #FFf;
+    text-decoration: none;
+    
+    transition: all 0.6s ease-out;
+}
+
+
+.cabecalho__link:hover{
+    color: red;
+    
+    
+    
+}
+
+.cabecalho__link:visited{
+    
+    text-decoration: none;
+}
+

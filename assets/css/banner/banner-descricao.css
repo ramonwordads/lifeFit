@@ -1,0 +1,11 @@
+.banner__descricao{
+    color: #fff;
+    position: absolute;
+    font-weight: 300;
+    font-size: 14px;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    width: 100%;
+    transform: translate(-50%, -50%);
+}
