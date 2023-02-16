@@ -1,0 +1,32 @@
+.perguntas__card{
+    border: 1px solid rgb(255, 255, 255);
+    background-color: #E0E0E1;
+    box-shadow: 2px 2px rgb(15, 13, 13);
+    text-align: center;
+    margin: 1rem auto;
+    
+    overflow: hidden;
+    cursor: pointer;
+    transition: all 1s ease-in-out;
+    
+}
+
+
+.perguntas__card:hover{
+    background-color: rgba(0, 0, 0, 0.384);
+    height: 185px;
+}
+
+
+@media screen and (min-width:0){
+    .perguntas__card{
+        width: 80%;
+        height: 35px;
+    }
+}
+
+@media screen and (min-width:1024px){
+    .perguntas__card{
+        width: 50%;
+    }
+}

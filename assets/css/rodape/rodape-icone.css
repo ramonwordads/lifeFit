@@ -1,0 +1,12 @@
+.div-icones{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    padding-bottom: 2rem;
+    
+}
+
+.rodape__icone:hover{
+    background-color: rgb(206, 69, 69);
+    cursor: pointer;
+}

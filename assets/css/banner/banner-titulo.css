@@ -1,11 +1,33 @@
 .banner__titulo{
     color: #fff;
     font-weight: bold;
-    font-size: 1rem;
     text-align: center;
     top: 40%;
     left: 50%;
     transform: translate(-50%, -40%);
     position: absolute;
-    width: 100%;
+    
+}
+
+@media screen and (min-width: 0){
+    .banner__titulo{
+        font-size: 1rem;
+        width: 100%;
+    }
+}
+
+@media screen and (min-width: 768px){
+    .banner__titulo{
+        font-size: 2rem;
+        
+    }
+}
+
+@media screen and (min-width: 1024px){
+    .banner__titulo{
+        font-size: 3rem;
+        color: #ffffff;
+        font-weight: 600;
+        letter-spacing: 0.2rem;
+    }
 }

@@ -7,3 +7,15 @@
 
     background-color: #FCF7F7;
 }
+
+
+
+
+
+@media screen and (min-width:1024px){
+    .planos{
+        flex-direction: row;
+        justify-content: space-around;
+        
+    }
+}

@@ -1,0 +1,35 @@
+.institucional__titulo{
+        border-bottom: 1px solid white;
+        color: #ffffff;
+        font-weight: 600;
+        margin: 0 auto;
+        padding-top: 3rem;
+        text-align: center;
+        
+        
+        
+    
+}
+
+@media screen and (min-width:0){
+        .institucional__titulo{
+            font-size: 1rem;
+            width: 70%;
+        }
+    }
+    
+    @media screen and (min-width: 768px){
+        .institucional__titulo{
+            font-size: 1.2rem;
+            width: 60%;
+        }
+    }
+    
+    @media screen and (min-width: 1024px){
+        .institucional__titulo{
+            font-size: 1.5rem;
+            width: 30%;
+            text-align: center;
+            
+        }
+    }

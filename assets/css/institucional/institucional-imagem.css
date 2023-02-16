@@ -1,0 +1,41 @@
+.institucional__imagem{
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        border-radius: 50%;
+        display: block;
+        margin: 0 auto;
+        padding: 2rem 0;
+        
+        width: 200px;
+        height: 200px;
+        
+    
+        
+}
+
+@media screen and (min-width:0){
+        .institucional__imagem{
+            width: 200px;
+            height: 200px;
+        }
+    }
+    
+    @media screen and (min-width: 768px){
+        .institucional__imagem{
+            width: 300px;
+            height: 300px;
+        }
+    }
+    
+    @media screen and (min-width:1024px){
+        .institucional__imagem{
+            
+            width: 300px;
+            height: 280px;
+            
+            
+            
+            
+        }
+    }

@@ -1,4 +1,4 @@
-.sobre__imagem{
+.perguntas__imagem{
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -7,29 +7,28 @@
     margin: 0 auto;
     padding: 2rem 0;
     
-    
+   
     
 
     
 }
 
-
 @media screen and (min-width:0){
-    .sobre__imagem{
+    .perguntas__imagem{
         width: 200px;
         height: 200px;
     }
 }
 
 @media screen and (min-width: 768px){
-    .sobre__imagem{
+    .perguntas__imagem{
         width: 300px;
         height: 300px;
     }
 }
 
 @media screen and (min-width:1024px){
-    .sobre__imagem{
+    .perguntas__imagem{
         
         width: 400px;
         height: 400px;

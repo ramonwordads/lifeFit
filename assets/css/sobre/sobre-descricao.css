@@ -1,11 +1,37 @@
 .sobre__descricao{
     color: #ffffff;
-    font-size: 0.9rem;
+    
     font-weight: 400;
-    line-height: 23px;
-    max-width: 273px;
-    text-align: justify;
-    margin: 0 auto;
     padding-bottom: 3rem;
     
+}
+
+
+@media screen and (min-width:0){
+    .sobre__descricao{
+        max-width: 273px;
+        line-height: 23px;
+        font-size: 0.9rem;
+        text-align: justify;
+        margin: 0 auto;
+    }
+}
+
+
+@media screen and (min-width:768px){
+    .sobre__descricao{
+        max-width: 470px;
+        line-height: 22px;
+        font-size: 1rem;
+    }
+}
+
+@media screen and (min-width: 1024px){
+    .sobre__descricao{
+        font-size: 1.2rem;
+        max-width: 700px;
+        line-height: 24px;
+
+        
+    }
 }

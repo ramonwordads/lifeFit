@@ -1,0 +1,31 @@
+.perguntas__card-botao{
+    color: #ffffff;
+    
+    font-weight: 300;
+    text-align: center;
+    line-height: 20px;
+    
+    margin: 0 auto;
+}
+
+
+@media screen and (min-width:0){
+    .perguntas__card-botao{
+        width: 266px;
+        font-size: 0.9;
+    }
+}
+
+@media screen and (min-width:768px){
+    .perguntas__card-botao{
+        width: 370px;
+        font-size: 1.2rem;
+    }
+}
+
+@media screen and (min-width:1024px){
+    .perguntas__card-botao{
+        width: 500px;
+        font-size: 1.4rem;
+    }
+}

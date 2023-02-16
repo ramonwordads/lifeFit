@@ -1,10 +1,41 @@
 .beneficios__descricao{
     color: #ffffff;
-    font-size: 0.9rem;
     font-weight: 400;
-    line-height: 15px;
-    max-width: 273px;
+
     text-align: center;
     margin: 0 auto;
     
+}
+
+
+@media screen and (min-width:0){
+    .beneficios__descricao{
+        max-width: 273px;
+        line-height: 23px;
+        font-size: 0.9rem;
+        text-align: justify;
+        text-align: center;
+        margin: 0 auto;
+    }
+}
+
+
+@media screen and (min-width:768px){
+    .beneficios__descricao{
+        max-width: 470px;
+        line-height: 22px;
+        font-size: 1rem;
+        text-align: center;
+    }
+}
+
+@media screen and (min-width: 1024px){
+    .beneficios__descricao{
+        font-size: 1.2rem;
+        max-width: 700px;
+        line-height: 24px;
+        text-align: center;
+
+        
+    }
 }

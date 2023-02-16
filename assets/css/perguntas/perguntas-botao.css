@@ -1,0 +1,17 @@
+.perguntas__botao{
+    border-style: none;
+    border: 1px solid white;
+    background-color: #342C2C;
+    color: #fff;
+    text-transform: uppercase;
+    padding: 1.3rem 3rem;
+    margin-bottom: 2rem;
+    transition: all 0.7s;
+    cursor: pointer;
+}
+
+
+.perguntas__botao:hover{
+    background-color: #fff;
+    color: #342C2C;
+}

@@ -1,0 +1,10 @@
+.rodape, body{
+    background-color: #585858;
+}
+
+.logo__imagem-rodape{
+    display: block;
+    margin: 0 auto;
+    width: 150px;
+    height: 130px;
+}
